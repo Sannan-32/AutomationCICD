@@ -20,6 +20,8 @@ public class StandAloneTest {
 
 	public static void main(String[] args) throws InterruptedException {
 
+		//adding comment to check jenkins github integration
+
 		String productName = "IPHONE 13 PRO";
 
 		WebDriverManager.chromedriver().setup();
